@@ -1,7 +1,7 @@
 # Challenge-3 License-Plate-Detection
 
-#동영상 Link
-Link: 
+# 동영상 Link
+Link: https://www.youtube.com/watch?v=58S3JBOXvLc
 
 #Licnese Plate Detection
 
